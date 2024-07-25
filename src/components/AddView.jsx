@@ -1,8 +1,10 @@
 import React from 'react'
+import AddNavBar from './AddNavBar'
 
 const AddView = () => {
   return (
     <div>
+        <AddNavBar/>
 <div className="cntainer">
     <div className="rw">
         <div className="cl cl-12 cl-sm-12 cl-md-12 cl-lg-12 cl-xl-12 cl-xxl-12">
