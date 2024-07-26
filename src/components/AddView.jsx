@@ -5,10 +5,10 @@ const AddView = () => {
   return (
     <div>
         <AddNavBar/>
-<div className="cntainer">
-    <div className="rw">
+<div className="container">
+    <div className="row">
         <div className="cl cl-12 cl-sm-12 cl-md-12 cl-lg-12 cl-xl-12 cl-xxl-12">
-            <div className="rw g-3">
+            <div className="row g-3">
                 <div className="cl cl-12 cl-sm-12 cl-md-12 cl-lg-12 cl-xl-12 cl-xxl-12">
                 
                 <table class="table">
